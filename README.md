@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Desenvolvedor Front-End<br>-Freelancer<br>-Estudando Reactjs</p>
+<p align="left">-Desenvolvedor Front-End<br>-Freelancer<br>-Estudando HTML, CSS, JS e Reactjs</p>
 
 ###
 
